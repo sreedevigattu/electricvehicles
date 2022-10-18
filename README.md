@@ -8,4 +8,9 @@ On the other hand the sunburst charts make this very clear (in both zone and sta
 
 Both these charts are good as long as the number of categories is small and the difference in the values across these categories is considerable. Between the two charts the sunburst charts look better and also help (in sending the message across) better.
 
-Dataset used: https://data.gov.in/resource/stateut-wise-details-electric-vehicles-reply-unstarred-question-08-december-2021
+This was my [submission](https://community.storytellingwithdata.com/challenges/october-2022-tree-mendous-treemaps/electric-vehicles-in-india) to the Storytelling with Data's [visualize vacation October 2022 challenge](https://community.storytellingwithdata.com/challenges/october-2022-tree-mendous-treemaps#accept-challenge) I used Tableau and datasets from [data.gov in](https://data.gov.in/resource/stateut-wise-details-electric-vehicles-reply-unstarred-question-08-december-2021) site
+
+![Electric Vehicles in India - 2021 - Zone wise Treemap](treemap_zone.png)
+![Electric Vehicles in India - 2021 - State wise Treemap](treemap_state.png)
+![Electric Vehicles in India - 2021 - Zone wise Sunburst](sunburst_zone.png)
+![Electric Vehicles in India - 2021 - State wise Sunburst](sunburst_state.png)
