@@ -7,3 +7,5 @@ The treemaps do show the distribution of EVs across the zones and states. But it
 On the other hand the sunburst charts make this very clear (in both zone and state cases) in a single glance. Navigation is clockwise which is simple and intuitive.
 
 Both these charts are good as long as the number of categories is small and the difference in the values across these categories is considerable. Between the two charts the sunburst charts look better and also help (in sending the message across) better.
+
+Dataset used: https://data.gov.in/resource/stateut-wise-details-electric-vehicles-reply-unstarred-question-08-december-2021
